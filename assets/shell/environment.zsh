@@ -9,6 +9,9 @@ export ALETHEIA="$WORKSPACE/Aletheia"
 export AF="$ALETHEIA/aletheia-foundation"
 export AE="$ALETHEIA/aletheia-engineering"
 
+# Rustup installed by Homebrew is keg-only.
+export PATH="/opt/homebrew/opt/rustup/bin:$PATH"
+
 HISTSIZE=50000
 SAVEHIST=50000
 
