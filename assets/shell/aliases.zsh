@@ -1,0 +1,16 @@
+alias ws='cd "$WORKSPACE"'
+alias aw='cd "$ALETHEIA"'
+alias af='cd "$AF"'
+alias ae='cd "$AE"'
+
+alias ll='ls -lah'
+alias la='ls -A'
+alias c='clear'
+alias ..='cd ..'
+alias ...='cd ../..'
+
+alias gs='git status'
+alias ga='git add .'
+alias gc='git commit'
+alias gp='git pull'
+alias gpush='git push'
