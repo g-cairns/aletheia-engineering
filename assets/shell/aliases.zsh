@@ -2,6 +2,7 @@ alias ws='cd "$WORKSPACE"'
 alias aw='cd "$ALETHEIA"'
 alias af='cd "$AF"'
 alias ae='cd "$AE"'
+alias ap='cd "$AP"'
 
 alias ll='ls -lah'
 alias la='ls -A'
